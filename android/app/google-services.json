@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "268763085486",
+    "project_id": "veer-93017",
+    "storage_bucket": "veer-93017.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:268763085486:android:811e54d25b2c47db360b3f",
+        "android_client_info": {
+          "package_name": "com.vanguard.vangaurd_groceries"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPupYOk_Eh34qOrwhQ_Ca-6uNoo9fkgt4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
